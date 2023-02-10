@@ -1,6 +1,6 @@
 ### VK Cup 2022'23
 
-# JS финал
+# JavaScript финал (да, да! Это Финал соревнования!)
 
 В папке dist/ находится готовый минифицированный код. Нужно только добавить db.json и запустить server.js Приложение будет доступно по порту 3000.
 Тестовую базу данных можно скачать по ссылке https://cloud.mail.ru/public/kLv4/mYrohjF9k
@@ -35,6 +35,8 @@ For run frontend development:
 # About competition
 
 [VK Cup](https://vk.com/cup)
+
+[video with app demonstration](https://youtu.be/VmhFuMNUEf8)
 
 [Presentation (RUS)](https://docs.google.com/presentation/d/11sMMqOR_xKrMm-wCziM8oaZv7xS1estSMZhvXLM79yc/edit?usp=sharing)
 
