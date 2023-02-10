@@ -1,0 +1,7 @@
+{
+  "name": "vk_cup_2022_mail_app",
+  "description": "App for second level of VK Cup in JavaScript competition",
+  "version": "0.1.0",
+  "author": "Alexander Zelenkov",
+  "type": "module"
+}
