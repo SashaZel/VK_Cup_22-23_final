@@ -1,6 +1,7 @@
 ### VK Cup 2022'23
 
-# JavaScript финал (да, да! Это Финал соревнования! [8-е место](https://vk.com/@cup-final-results-22-23))
+# JavaScript финал 
+### (да, да! Это Финал соревнования! [8-е место](https://vk.com/@cup-final-results-22-23))
 
 В папке dist/ находится готовый минифицированный код. Нужно только добавить db.json и запустить server.js Приложение будет доступно по порту 3000.
 Тестовую базу данных можно скачать по ссылке https://cloud.mail.ru/public/kLv4/mYrohjF9k
@@ -22,7 +23,7 @@
 3. Run `node server.js`
 4. Open application in http://localhost:3000/
 
-Folder dev/ contain backend and frontend app in dev mode.
+Folder dev/ contains backend and frontend app in dev mode.
 
 For run frontend development:
 
